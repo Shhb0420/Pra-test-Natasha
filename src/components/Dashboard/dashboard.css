@@ -1,0 +1,12 @@
+.container {
+  justify-content: center;
+  display: flex;
+}
+
+.table-orders {
+  width: 100%;
+}
+
+.table-striped {
+  margin-top: 20px;
+}

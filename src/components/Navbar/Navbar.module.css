@@ -1,0 +1,20 @@
+.button {
+  margin-right: 100px;
+}
+
+.event {
+  min-width: 150px;
+  background: #f77423;
+  border-radius: 25px;
+  border: 1px solid #f77423;
+  height: 36px;
+  /* margin-left: 30px; */
+  color: white;
+}
+
+.event:hover,
+.event:focus {
+  color: black;
+  border-color: #f77423;
+  text-decoration: none;
+}

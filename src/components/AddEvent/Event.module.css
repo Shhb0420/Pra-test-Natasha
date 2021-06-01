@@ -1,0 +1,32 @@
+.subForm {
+  background-color: #a19f9d;
+  /* flex-direction: row; */
+}
+
+.secondary_img {
+  width: calc((80 / 1440) * 100vw);
+  height: calc((80 / 1440) * 100vw);
+  border-radius: calc((4 / 1440) * 100vw);
+  margin-right: calc((10 / 1440) * 100vw);
+  overflow: hidden;
+  margin-top: 10px;
+}
+
+.secondaryImg {
+  width: calc((80 / 1440) * 100vw);
+  height: auto;
+}
+
+.image {
+  width: 400px;
+  height: auto;
+}
+
+.handleFile {
+  border: 1px solid #a19f9d;
+  background-color: #a19f9d;
+}
+
+.hiddeninput {
+  visibility: hidden;
+}
